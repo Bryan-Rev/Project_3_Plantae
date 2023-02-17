@@ -251,6 +251,44 @@
 
     }
 
+    /* FIFTH LOADING SCREEN */
+
+    .fifth-loading-screen h1{
+        font-family: 'Futura';
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: 0em;
+        text-align: center;
+        margin: 0; 
+        margin-top: 39px;
+
+    }
+    .loading-fnl-btn{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 16px 36px;
+        gap: 8px;
+
+        color: white;
+        border: none;
+        font-family: 'Futura Md BT';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+
+        position: absolute;
+        width: 294px;
+        height: 56px;
+        left: 48px;
+        top: 699px;
+
+        background: #1E2F2B;
+        box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.25);
+        border-radius: 50px;
+    }
 
 
 
