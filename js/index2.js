@@ -1,1 +1,1 @@
-setTimeout("location.href = 'Loading3.html';",800);
+setTimeout("location.href = 'index3.html';",800);
