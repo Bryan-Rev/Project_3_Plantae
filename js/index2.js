@@ -1,0 +1,1 @@
+setTimeout("location.href = 'Loading3.html';",800);
