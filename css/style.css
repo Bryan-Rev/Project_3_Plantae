@@ -104,6 +104,7 @@
         display: flex;
         justify-content: center;
         margin-top: 60px;
+        padding-right: 10px;
     }
     .home-bar{
         position: absolute;
